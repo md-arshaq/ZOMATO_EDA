@@ -7,6 +7,10 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on the Zo
 ---
 
 ## 📂 Dataset
+
+### LINK 
+https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
+
 The dataset contains information about various restaurants, including:
 - Restaurant name and location
 - Ratings and reviews
